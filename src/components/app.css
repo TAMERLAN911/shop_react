@@ -1,0 +1,10 @@
+.container {
+  width: 95%;
+  margin: auto;
+}
+
+
+.section {
+  display: flex;
+  justify-content: space-between;
+}
